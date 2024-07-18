@@ -1,0 +1,1 @@
+A Simulated Annealing agent created to maximize work scheduling. In essence, it reorders the jobs and determines whether the changes result in faster completion times. If a change turns out to be beneficial, the agent is more likely to keep it. Gradually, though, it becomes clever in tolerating changes that do not produce appreciable advantages.
